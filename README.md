@@ -19,4 +19,5 @@ Usando PanacheEntityBase para persistir os dados;
 
 -  Documentação Swagger - Apos executar o projeto entrar na URL para ver os End-points (http://localhost:8080/swagger-ui/#/)
 
+![Texto alternativo da imagem](images/swaggerapi.jpg)
 
