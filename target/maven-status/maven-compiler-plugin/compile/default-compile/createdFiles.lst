@@ -1,0 +1,14 @@
+crudJava17\service\ProdutoService.class
+crudJava17\model\NotaFiscal.class
+crudJava17\teste\MyEntity.class
+crudJava17\controller\FornecedorController.class
+crudJava17\model\ItemNota.class
+crudJava17\model\Fornecedor.class
+crudJava17\controller\ProdutoController.class
+crudJava17\model\Produto.class
+crudJava17\service\FornecedorService.class
+crudJava17\service\NotaFiscalService.class
+crudJava17\model\SituacaoFornecedor.class
+crudJava17\model\SituacaoProduto.class
+crudJava17\teste\GreetingResource.class
+crudJava17\controller\NotaFiscalController.class
